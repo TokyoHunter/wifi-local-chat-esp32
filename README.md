@@ -29,11 +29,17 @@ WebSocket.
 
 ## 📷 Environment
 
-![1](./pictures/1.png)
+<div align="center">
+  <img src="./pictures/1.png" alt="1" />
+</div>
 
-![3](./pictures/3.png)
+<div align="center">
+  <img src="./pictures/3.png" alt="1" />
+</div>
 
-![2](./pictures/2.png)
+<div align="center">
+  <img src="./pictures/2.png" alt="1" />
+</div>
 
 ---
 

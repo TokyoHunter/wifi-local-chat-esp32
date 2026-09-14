@@ -1,5 +1,7 @@
 # ESP32 Local Wi-Fi Group Chat 💬
 
+![banner](./pictures/banner.png)
+
 A lightweight, fully offline group chat that runs entirely on an ESP32.
 The ESP32 acts as its own Wi-Fi Access Point — no internet, no router, no
 database, no external CDN/fonts/JS. Connect to its Wi-Fi, open
